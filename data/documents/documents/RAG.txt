@@ -1,0 +1,42 @@
+Python Basics
+
+Python is a high-level programming language known for its simple and readable syntax.
+
+Variables:
+A variable is used to store data in Python. For example:
+name = "Priya"
+age = 25
+
+Lists:
+A list is an ordered collection of items. Lists can contain multiple values.
+Example:
+numbers = [10, 20, 30, 40]
+
+Functions:
+A function is a reusable block of code designed to perform a specific task.
+A function is created using the def keyword.
+
+Loops:
+Python provides for loops and while loops to repeat a block of code.
+
+FastAPI:
+FastAPI is a modern Python web framework used to build APIs.
+It supports asynchronous programming using async and await.
+
+RAG:
+Retrieval-Augmented Generation is a technique where relevant information is retrieved from a knowledge base before generating an answer.
+
+Document Ingestion:
+Document ingestion is the process of loading documents into a system so that they can be processed and used for retrieval.
+
+Chunking:
+Chunking divides a large document into smaller pieces of text. Smaller chunks make it easier for a retrieval system to find relevant information.
+
+Embeddings:
+Embeddings represent text as numerical vectors. Text with similar meaning generally has similar vector representations.
+
+Vector Database:
+A vector database stores embeddings and allows the system to search for semantically similar information.
+
+Semantic Search:
+Semantic search finds information based on meaning rather than only matching exact keywords.
